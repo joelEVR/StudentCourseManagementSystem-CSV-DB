@@ -1,0 +1,51 @@
+studentId, firstName, lastName, courseId, courseName, term, year
+123456789,Liam,Smith,ABC1234,Introduction to Mathematics,WINTER,1967
+987654321,Olivia,Johnson,DEF5678,English Composition,SUMMER,1968
+234567890,Noah,Williams,GHI9012,Biology Fundamentals,FALL,1969
+876543210,Emma,Brown,JKL3456,General Chemistry,WINTER,1970
+345678901,Oliver,Jones,MNO7890,Physics Principles,SUMMER,1971
+210987654,Ava,Miller,PQR1234,World History,FALL,1972
+456789012,William,Davis,STU5678,Geography Basics,WINTER,1973
+890123456,Sophia,Garcia,VWX9012,Art Appreciation,SUMMER,1974
+567890123,Elijah,Rodriguez,YZA3456,Introduction to Psychology,FALL,1975
+109876543,Isabella,Martinez,BCD7890,Music Theory,WINTER,1976
+321098765,James,Hernandez,EFG1234,Microeconomics,SUMMER,1977
+678901234,Mia,Lopez,HIJ5678,Political Science,FALL,1978
+901234567,Benjamin,Gonzalez,KLM9012,Computer Science Basics,WINTER,1979
+543210987,Charlotte,Wilson,NOP3456,Marketing Fundamentals,SUMMER,1980
+789012345,Lucas,Anderson,QRS7890,Education Foundations,FALL,1981
+654321098,Lily,Baker,TUV5678, Software Design Patterns,FALL,2008
+432109876,Henry,Taylor,WXY5678,Accounting Principles,SUMMER,1983
+765432109,Harper,Moore,ZAB9012,Sociology Introduction,FALL,1984
+678123450,Alexander,Jackson,CDE3456,Cultural Anthropology,WINTER,1985
+987654321,Evelyn,Martin,FGH7890,Philosophy Ethics,SUMMER,1986
+123890456,Michael,Lee,IJK1234,Astronomy Overview,FALL,1987
+234578901,Abigail,Perez,LMN5678,French Language,WINTER,1988
+109456780,Ethan,Thompson,OPQ9012,Spanish Language,SUMMER,1989
+345679012,Emily,White,RST3456,German Language,FALL,1990
+908765432,Daniel,Harris,UVW7890,Italian Language,WINTER,1991
+765432189,Elizabeth,Sanchez,XYZ1234,Japanese Language,SUMMER,1992
+123450987,Matthew,Clark,ABC5678,Chinese Language,FALL,1993
+890123456,Scarlett,Lewis,DEF9012,Linguistics Basics,WINTER,1994
+109876543,Logan,Robinson,GHI3456,Theatre Arts,SUMMER,1995
+876543210,Madison,Walker,JKL7890,Communication Skills,FALL,1996
+345678901,Jackson,Hall,MNO1234,Nursing Fundamentals,WINTER,1997
+210987654,Avery,Young,PQR5678,Physical Anthropology,SUMMER,1998
+654321098,David,Allen,STU9012,Religious Studies,FALL,1999
+789012345,Sofia,King,VWX3456,Swedish Language,WINTER,2000
+234567890,Joseph,Wright,YZA7890,Drama Introduction,SUMMER,2001
+901234567,Chloe,Scott,BCD1234,Advanced English,FALL,2002
+567890123,Samuel,Torres,EFG5678,Management Principles,WINTER,2003
+432109876,Ella,Nguyen,HIJ9012,Environmental Science,SUMMER,2004
+987654321,Gabriel,Hill,KLM3456,Ethical Issues,FALL,2005
+678901234,Grace,Green,NOP7890,Computer Science Ethics,WINTER,2006
+12345678,Amelia,Thomas,TUV1234,Business Management,WINTER,1982
+210987aa,Anthony,Adams,QRSS123, Intro to Math,SUMMERY,2007
+789012345,John,Nelson,WXY9012, Software Design Patterns,WINTER,2026
+234567890,Layla,Carter,ZAB3456,Computer Networks,SUMMER,195
+901234567,Wyatt,Mitchell,CDE7890,Database Management Systems,gatineau,2011
+567890123,Aria,Perez,FGH1234, Software Design Patterns,ottawa,2012
+432109876,Andrew,Roberts,CST0000000,Artificial Intelligence,SUMMER,2013
+987654321,Zoe,Turner,CSToeod,Operating Systems,FALL,2014
+12345678901,Isaac,Phillips,CST4354, Software Design Patterns,FALL,1996
+12345ss,Riley,Campbell,CST3698,Cyber Information,FALL,1997
